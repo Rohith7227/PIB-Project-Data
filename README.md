@@ -1,3 +1,7 @@
 This is PBI Project Data Analyzed by using Microsoft Power BI
 The Power BI is Best to handle huge data without any interruption.
-In 
+
+Latest Update was done:
+1. Updated Dashboard in PIB Project Dashboard - Power BI
+2. Added Bar charts, Scattered Chart and Donut Chart
+3. Map was Added in the Dashboard - It shows which country has the most sales i.e. Sales by Country
