@@ -7,3 +7,4 @@ Latest Update was done:
 3. Map was Added in the Dashboard - It shows which country has the most sales i.e. Sales by Country
 4. Added new page HR and renamed current page to Sales.
 5. Added Navigation Button in top left Corner of Dashboard to switch between pages.
+6. 
